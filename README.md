@@ -4,7 +4,7 @@
 ### My name is Alessandra Williams
 🌱 I’m currently learning Javascript, HTML, CSS, Nodejs etc..
 - 👯 I’m looking to collaborate to any type of work if I'm familiar with. I would like to practice what I've been learning until now.
-- 💬 Ask me about anything if I know the the answer I will let you know.
+- 💬 Ask me about anything if I know the answer I will let you know.
 
 - 📫 How to reach me: 
 
